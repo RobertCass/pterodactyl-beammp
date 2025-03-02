@@ -1,6 +1,6 @@
 <h1>BeamMP Pterodactyl Egg</h1>
 
-Welcome to this repository, this is an on-going update to allow users to use the Pterodactyl Panel to install a BeamNG MP Server
+Welcome to this repository, this is an on-going update to allow users to use the Pterodactyl Panel to install a BeamNG MP Server \n This Egg has been made for Debian 11 ARM64(64Bit Processors)
 
 <h1>How to install</h1>
 
