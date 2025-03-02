@@ -13,5 +13,5 @@ Welcome to this repository, this is an on-going update to allow users to use the
 
 <h1>Important Links</h1>
 
-Pterodactyl Panel - https://pterodactyl.io/
-BeamMP Forum - https://forum.beammp.com/
+- Pterodactyl Panel - https://pterodactyl.io/
+- BeamMP Forum - https://forum.beammp.com/
